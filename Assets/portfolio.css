@@ -21,3 +21,20 @@ body {
     }
 }
 
+.navbar {
+  display: flex;
+  align-items: center;
+}
+
+.h1 {
+  align-items: center;
+}
+
+.second-section.relative {
+  position: relative;
+  right: 30px;
+  
+
+}
+
+
