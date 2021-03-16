@@ -1,6 +1,5 @@
 # portfolio
 
--Description: Create a portfolio that if possible could follow the template. I am trying to match the format as I am new to coding.
-
--
+## Description 
+Hello, my name is Rowan and this is my portfolio so far. As with all things in programming, this too has gone through many evolutions.I hope you take a look, maybe reach out and maybe we can chat. 
 
